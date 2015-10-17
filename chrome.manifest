@@ -1,0 +1,5 @@
+content   copy_on_select                 chrome/content/
+skin      copy_on_select   classic/1.0   chrome/skin/
+locale    copy_on_select   en-US         chrome/locale/en-US/
+
+overlay   chrome://browser/content/browser.xul   chrome://copy_on_select/content/copy_on_select.xul

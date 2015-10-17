@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE overlay SYSTEM "chrome://copy_on_select/locale/copy_on_select.dtd">
+
+<overlay id="copy-on-select-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<script type="application/x-javascript" src="copy_on_select.js"/>
+</overlay>
